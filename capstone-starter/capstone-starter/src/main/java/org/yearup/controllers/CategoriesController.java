@@ -9,7 +9,6 @@ import org.yearup.data.CategoryDao;
 import org.yearup.data.ProductDao;
 import org.yearup.models.Category;
 import org.yearup.models.Product;
-
 import javax.servlet.http.HttpServletResponse;
 import java.util.List;
 
@@ -127,4 +126,7 @@ public class CategoriesController
             throw new ResponseStatusException(HttpStatus.INTERNAL_SERVER_ERROR, "Oops... our bad.");
         }
     }
+}
+
+
 }
