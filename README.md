@@ -125,17 +125,9 @@ Dipesh Basnet
 - Phase 1 and 2
   <img src= "https://github.com/Shankarmagar/EasyShop/blob/main/screenshots/Screenshot%202024-01-05%20at%201.32.18%E2%80%AFAM.png" width= 500px height= 500px>
 
-
-
-
+  
 
 ### Interesting Code Snippet
-
-paste here
-
-For Shankar
-
-For Dipesh
 ```
 @Autowired
 ```
