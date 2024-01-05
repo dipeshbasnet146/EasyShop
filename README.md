@@ -109,10 +109,8 @@ src/test/java - Contains the unit tests.
 database - Contains the SQL script for database setup.
 
 
-
 ##### Contributions
 This project is part of a capstone solo project. Contributions are not currently accepted, but feedback and suggestions are always welcome.
-
 
 
 ### About the Developer
