@@ -121,5 +121,13 @@ Dipesh Basnet
 
 ### Interesting Code Snippet
 ```
+// create an Autowired controller to inject the categoryDao and ProductDao
 @Autowired
+ public  CategoriesController(CategoryDao categoryDao, ProductDao productDao){
+    this.categoryDao = categoryDao;
+    this.productDao = productDao;
+}
 ```
+
+### Credits
+Shankar, Preen, Tyson, Alexis, Dipesh, Kerry & Lizy
