@@ -119,7 +119,7 @@ This project is part of a capstone solo project. Contributions are not currently
 Dipesh Basnet
 
 ##### Snapshot of web application
-<img src="https://github.com/dipeshbasnet146/EasyShop/commit/b52ed6bb61d54592feb9068ec03259e4feefd9f2" width= 500px height= 500px>
+<img src="https://github.com/dipeshbasnet146/EasyShop/blob/main/Screenshots/Screenshot%202024-01-05%20at%201.27.18%E2%80%AFAM.png" width= 500px height= 500px>
 
 
   
