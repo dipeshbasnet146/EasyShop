@@ -50,7 +50,7 @@ Bug Fixes
 We heavily rely on Postman for testing our API endpoints. The repository includes a collection of Postman scripts for various API functionalities.
 
 API Endpoints
-(List of API endpoints with brief descriptions)
+
 
 Project Structure
 src/main/java - Contains the source code.
