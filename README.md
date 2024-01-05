@@ -1,7 +1,6 @@
 # EasyShop Version 2 Backend
 ### Introduction
-- Welcome to the GitHub repository for EasyShop's Version 2 backend development! This repository contains the backend code for the EasyShop e-commerce platform, developed using Spring Boot and MySQL. Our aim is to enhance the existing online store with new features and bug fixes to provide a seamless shopping experience.
-
+- Greetings and welcome to the GitHub repository dedicated to the backend development of EasyShop Version 2! This repository hosts the backend components of the EasyShop e-commerce system, crafted with Spring Boot and MySQL. Our objective is to upgrade and refine the online shopping platform, introducing new functionalities and resolving any existing issues, ensuring an effortless and enjoyable shopping journey.
 ### Setup and Installation
 #### Prerequisites:
 
