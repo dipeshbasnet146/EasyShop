@@ -121,9 +121,6 @@ Dipesh Basnet
 ##### Snapshot of web application
 <img src="https://github.com/dipeshbasnet146/EasyShop/blob/main/Screenshots/Screenshot%202024-01-05%20at%201.27.18%E2%80%AFAM.png" width= 500px height= 500px>
 
-
-  
-
 ### Interesting Code Snippet
 ```
 @Autowired
