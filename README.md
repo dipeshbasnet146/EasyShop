@@ -31,9 +31,9 @@ src/main/resources/application.properties
 
 - copy and paste
 ```
-datasource.url=jdbc:mysql://localhost:3306/<your database name>
-datasource.username= <Your Username>
-datasource.password=<Your Password>
+datasource.url=jdbc:mysql://localhost:3306/<your database name> (easyshop)
+datasource.username= <Your Username> ( root)
+datasource.password=<Your Password>   (Munna123#)
 ```
 
 
